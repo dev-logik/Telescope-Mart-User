@@ -16,15 +16,15 @@ The application uses Firebase for authentication and store data, and Supabase St
 
 ## Screenshots
 
-| Sign in | Telescope catalogue |
+| Order History | User Profile |
 | --- | --- |
 | <img src="assets/screenshots/Screenshot_5.png" alt="Telescope Mart sign-in screen" width="240"> | <img src="assets/screenshots/Screenshot_2.png" alt="Telescope catalogue showing products, prices, and ratings" width="240"> |
 
-| Shopping cart | User profile |
+| Shopping cart | Product Catalogue |
 | --- | --- |
 | <img src="assets/screenshots/Screenshot_4.png" alt="Shopping cart with item quantities and subtotal" width="240"> | <img src="assets/screenshots/Screenshot_3.png" alt="User profile with profile photo and account details" width="240"> |
 
-| Order history |
+| Login |
 | --- |
 | <img src="assets/screenshots/Screenshot_1.png" alt="Order history showing order totals and statuses" width="240"> |
 
