@@ -1,0 +1,6 @@
+- `[x]` Fix Google Sign-In crash and handle "No credentials" error
+    - `[x]` Update `AuthService` with safety checks
+    - `[x]` Wrap `_signinWithGoogle` in `try-catch` and handle errors
+- `[x]` Improve robustness of Email/Password login/registration
+    - `[x]` Trim inputs in `LoginSection`
+    - `[x]` Trim inputs in `RegistrationSection`

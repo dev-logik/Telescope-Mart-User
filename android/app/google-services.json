@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "1062639968871",
+    "project_id": "telescope-mart",
+    "storage_bucket": "telescope-mart.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062639968871:android:c42c0bf7f782e86b992ac2",
+        "android_client_info": {
+          "package_name": "com.example.telescope_mart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062639968871-8g3cgfkbjfvv923kq4hhqvi9llvq2fhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnE8c1PpfnCZjh3JD4wvmiIohUhyvapqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062639968871-8g3cgfkbjfvv923kq4hhqvi9llvq2fhs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1062639968871-gfmgti02u56dgujcbji46r57448oll1a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.telescopeMartUser"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062639968871:android:c764fa5cfe8985c7992ac2",
+        "android_client_info": {
+          "package_name": "com.example.telescope_mart_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062639968871-2rjfjsvjnpk3m6glflerpi9m5vhj5ttt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.telescope_mart_user",
+            "certificate_hash": "552c6beb35d96ecf89b9598e8531a511f96ac59d"
+          }
+        },
+        {
+          "client_id": "1062639968871-8g3cgfkbjfvv923kq4hhqvi9llvq2fhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnE8c1PpfnCZjh3JD4wvmiIohUhyvapqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062639968871-8g3cgfkbjfvv923kq4hhqvi9llvq2fhs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1062639968871-gfmgti02u56dgujcbji46r57448oll1a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.telescopeMartUser"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
